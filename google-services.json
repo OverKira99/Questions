@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571694745389",
+    "project_id": "questions-38bc1",
+    "storage_bucket": "questions-38bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571694745389:android:b565e4d4b0ed0d805ef5a4",
+        "android_client_info": {
+          "package_name": "com.alejandrobel.questions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3FeHodZV2IaqQRAUu-inuildU3gTNjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
